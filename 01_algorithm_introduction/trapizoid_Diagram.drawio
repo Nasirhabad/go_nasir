@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" modified="2024-07-11T04:50:44.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="iu5jGK-oJmqCtA3Ywhnl" version="24.6.4" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="832" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="iSu5GrRUL0sMl4gh5wHC-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iSu5GrRUL0sMl4gh5wHC-0" target="iSu5GrRUL0sMl4gh5wHC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iSu5GrRUL0sMl4gh5wHC-0" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=19;fontStyle=3" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="430" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iSu5GrRUL0sMl4gh5wHC-1" value="input (A, B, H)" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=16;fontStyle=3" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="252.5" y="520" width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iSu5GrRUL0sMl4gh5wHC-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iSu5GrRUL0sMl4gh5wHC-2" target="iSu5GrRUL0sMl4gh5wHC-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iSu5GrRUL0sMl4gh5wHC-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Calculate Area &lt;span style=&quot;font-size: 16px;&quot; class=&quot;hljs-operator&quot;&gt;=&lt;/span&gt;&lt;div&gt; ((a &lt;span style=&quot;font-size: 16px;&quot; class=&quot;hljs-operator&quot;&gt;+&lt;/span&gt; b) &lt;span style=&quot;font-size: 16px;&quot; class=&quot;hljs-operator&quot;&gt;*&lt;/span&gt; h) &lt;span style=&quot;font-size: 16px;&quot; class=&quot;hljs-operator&quot;&gt;/&lt;/span&gt; &lt;span style=&quot;font-size: 16px;&quot; class=&quot;hljs-number&quot;&gt;2&lt;/span&gt; &lt;span style=&quot;font-size: 16px;&quot; class=&quot;hljs-operator&quot;&gt;|&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;fontStyle=3" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="245" y="610" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iSu5GrRUL0sMl4gh5wHC-3" value="&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Output area&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="245" y="710" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iSu5GrRUL0sMl4gh5wHC-4" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=19;fontStyle=3" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="800" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iSu5GrRUL0sMl4gh5wHC-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="570" as="sourcePoint" />
+            <mxPoint x="60" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iSu5GrRUL0sMl4gh5wHC-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="570" as="sourcePoint" />
+            <mxPoint x="170" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iSu5GrRUL0sMl4gh5wHC-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="450" as="sourcePoint" />
+            <mxPoint x="170" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iSu5GrRUL0sMl4gh5wHC-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="570" as="sourcePoint" />
+            <mxPoint x="190" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iSu5GrRUL0sMl4gh5wHC-14" value="trapizoid area" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="380" width="130" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
